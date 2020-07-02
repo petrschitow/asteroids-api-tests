@@ -1,0 +1,3 @@
+test:
+  image: asteroids-api:latest
+  command: mvn test
